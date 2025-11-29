@@ -1,0 +1,26 @@
+{
+  "name": "@sequential/zellous-client-sdk",
+  "version": "1.0.0",
+  "description": "WebSocket client SDK for Zellous real-time collaboration",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "websocket",
+    "collaboration",
+    "real-time",
+    "zellous",
+    "sdk"
+  ],
+  "author": "Sequential Ecosystem",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sequential-ecosystem/sequential-ecosystem.git",
+    "directory": "packages/zellous-client-sdk"
+  },
+  "files": [
+    "index.js",
+    "zellous-sdk.js",
+    "README.md"
+  ]
+}
