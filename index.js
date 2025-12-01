@@ -230,5 +230,3 @@ export class ZellousSDK {
     };
   }
 }
-
-export default ZellousSDK;
