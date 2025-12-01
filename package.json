@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "WebSocket client SDK for Zellous real-time collaboration",
   "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
   "type": "module",
   "keywords": [
     "websocket",
